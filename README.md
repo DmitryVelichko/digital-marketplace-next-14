@@ -1,17 +1,38 @@
-### Digital Marketplace built with Next.js 14, React, tRPC, Tailwind
+# Digital Marketplace built with Next.js 14, React, tRPC, Tailwind
 
-#### The features of our digital marketplace:
+![image](https://github.com/DmitryVelichko/digital-marketplace-next-14/assets/42185328/e1f43a7f-985a-4e54-b8cc-8867d714384c)
+
+
+## The features of our digital marketplace:
+
 🛠️ Complete marketplace built from scratch in Next.js 14
+
 💻 Beautiful landing page & product pages
+
 🎨 Custom artwork
+
 💳 Full admin dashboard
+
 🛍️ Users can purchase and sell their own products
+
 🛒 Locally persisted shopping cart
+
 🔑 Authentication with sign- up verification email
+
 🖥️ Self-hosting Next.js
+
 🌟 Clean, modern UI using shadcn-ui
+
 ✉️ Beautiful emails for signing up and after purchase
+
 ✅ Admins can verify products to ensure high quality
+
+
+![image](https://github.com/DmitryVelichko/digital-marketplace-next-14/assets/42185328/a9294b87-f9d7-4d22-abb2-3540ea041cf2)
+
+![image](https://github.com/DmitryVelichko/digital-marketplace-next-14/assets/42185328/219b3033-14c9-4799-81a4-100f7537437b)
+
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
